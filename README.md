@@ -24,7 +24,7 @@
 1. [初心者コース（森岡の講義とともに歩く）](https://github.com/suimye/NGS_handson2015/wiki)
 
 
-2. [中級者以上コース（一匹狼たちへの課題）]()
+2. [中級者以上コース（一匹狼たちへの課題）](https://github.com/suimye/NGS_handson2015/wiki/ChIP-seq解析中級問題編)
 
 
 
