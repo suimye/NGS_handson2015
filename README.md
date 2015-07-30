@@ -2,16 +2,19 @@
 ###ChIP-Seq解析基礎-森岡担当
 ***
 ###バイオインフォマティクス人材育成カリキュラム、次世代シークエンサ(NGS)ハンズオン講習会の講義資料になります。
-[平成27年度NGSハンズオン講習会の公式](http://biosciencedbc.jp/human/human-resources/workshop/h27)
+[平成27年度NGSハンズオン講習会の公式HP](http://biosciencedbc.jp/human/human-resources/workshop/h27)
+[2015全日程の講義資料](http://www.iu.a.u-tokyo.ac.jp/~kadota/r_seq.html#bioinfo_ngs_sokushu_2015)
 
+#7/30現在、進行率60%
 8/6以降も適宜更新作業を行っていますので、追加分で大事なところは赤字にしてあります。
 質問は msmorioka-tky@umin.ac.jpまでお願いいたします。
 
 当日の講義資料（ppt）: 
 
 ###参考資料
-- 河岡先生の資料へのリンク
+- [2014のChIP-seq解析、河岡先生の資料へのリンク]()
 - 門田先生の資料へのリンク
+- [shellの使い方: 服部先生の資料へのリンク](http://www.iu.a.u-tokyo.ac.jp/~kadota/bioinfo_ngs_sokushu_2015/20150724_amelieff.pdf)
 - Hommer
 
 ####はじめに
