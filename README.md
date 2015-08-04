@@ -35,9 +35,8 @@
 
 - ChIP-seqの基本原理と解析の流れ(pptで説明) 
 - [データの取得](https://github.com/suimye/NGS_handson2015/wiki/data_retrive)
-- データのクオリティチェック
-- ゲノムへのアライメント
-- [Peak Callに基づくタンパク質-DNA結合領域の検出]()
+- [データのQCと、ゲノムへのアライメント](https://github.com/suimye/NGS_handson2015/wiki/NGS_beginner)
+- [Peak Callに基づくタンパク質-DNA結合領域の検出](https://github.com/suimye/NGS_handson2015/wiki/PeakCallbyMACS)
 - Peak 領域の意味付けと統合解析 (pptで説明)
 
 
