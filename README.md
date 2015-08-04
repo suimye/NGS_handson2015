@@ -5,7 +5,7 @@
 [平成27年度NGSハンズオン講習会の公式HP](http://biosciencedbc.jp/human/human-resources/workshop/h27)
 [2015全日程の講義資料](http://www.iu.a.u-tokyo.ac.jp/~kadota/r_seq.html#bioinfo_ngs_sokushu_2015)
 
-#7/30現在、進行率60%
+
 8/6以降も適宜更新作業を行っていますので、追加分で大事なところは赤字にしてあります。
 
 ご質問は msmorioka-tkyあっとumin.ac.jpまでお願いいたします。
