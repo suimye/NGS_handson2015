@@ -16,8 +16,8 @@
 - [2014のChIP-seq解析、河岡先生の資料へのリンク]()
 - 門田先生の資料へのリンク
 - [shellの使い方: 服部先生の資料へのリンク](http://www.iu.a.u-tokyo.ac.jp/~kadota/bioinfo_ngs_sokushu_2015/20150724_amelieff.pdf)
-- Hommer
-- NGS Surfer's wiki 
+- [HOMER](http://homer.salk.edu/homer/chipseq/)
+- [NGS Surfer's wiki ](https://cell-innovation.nig.ac.jp/wiki/tiki-index.php)
   -bowtie, bwaのmultimappingのときのリードの分散について[情報](http://tinyurl.com/ooeactg) 
 
 
