@@ -33,11 +33,11 @@
 1. [初心者コース（森岡の講義とともに歩く）](https://github.com/suimye/NGS_handson2015/wiki/NGS_beginner)
 
 
-- ChIP-seqの基本原理と解析の流れ(pptで説明) 
-- [データの取得](https://github.com/suimye/NGS_handson2015/wiki/data_retrive)
-- [データのQCと、ゲノムへのアライメント](https://github.com/suimye/NGS_handson2015/wiki/NGS_beginner)
-- [Peak Callに基づくタンパク質-DNA結合領域の検出](https://github.com/suimye/NGS_handson2015/wiki/PeakCallbyMACS)
-- Peak 領域の意味付けと統合解析 (pptで説明)
+  - ChIP-seqの基本原理と解析の流れ(pptで説明) 
+  - [データの取得](https://github.com/suimye/NGS_handson2015/wiki/data_retrive)
+  - [データのQCと、ゲノムへのアライメント](https://github.com/suimye/NGS_handson2015/wiki/NGS_beginner)
+  - [Peak Callに基づくタンパク質-DNA結合領域の検出](https://github.com/suimye/NGS_handson2015/wiki/PeakCallbyMACS)
+  - Peak 領域の意味付けと統合解析 (pptで説明)
 
 
 
