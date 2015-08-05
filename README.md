@@ -13,8 +13,7 @@
 当日の講義資料（ppt）: 
 
 ###参考資料
-- [2014のChIP-seq解析、河岡先生の資料へのリンク]()
-- 門田先生の資料へのリンク
+- [2014のChIP-seq解析、河岡先生の資料へのリンク](https://sites.google.com/site/shinpeicharliekawaoka/)
 - [shellの使い方: 服部先生の資料へのリンク](http://www.iu.a.u-tokyo.ac.jp/~kadota/bioinfo_ngs_sokushu_2015/20150724_amelieff.pdf)
 - [HOMER](http://homer.salk.edu/homer/chipseq/)
 - [NGS Surfer's wiki ](https://cell-innovation.nig.ac.jp/wiki/tiki-index.php)
