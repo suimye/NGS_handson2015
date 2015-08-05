@@ -10,7 +10,7 @@
 
 ご質問は msmorioka-tkyあっとumin.ac.jpまでお願いいたします。
 
-当日の講義資料（ppt）: 
+
 
 ###参考資料
 - [2014のChIP-seq解析、河岡先生の資料へのリンク](https://sites.google.com/site/shinpeicharliekawaoka/)
