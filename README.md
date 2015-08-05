@@ -29,7 +29,7 @@
 3. 遅れても焦らずに。まずは講師のデモ・レクチャーを聴いた後に時間を与えますので、その時に周りに聴いたり、先生方に聴いて進むようにしてください。
 
 
-# NGS_handson2015
+#NGS_handson2015
 1. [初心者コース（森岡の講義とともに歩く）](https://github.com/suimye/NGS_handson2015/wiki/NGS_beginner)
 
 
