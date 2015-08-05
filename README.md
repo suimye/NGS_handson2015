@@ -41,8 +41,8 @@
   - [データの取得](https://github.com/suimye/NGS_handson2015/wiki/data_retrive)
   - [データのQCと、ゲノムへのアライメント](https://github.com/suimye/NGS_handson2015/wiki/NGS_beginner)
   - [Peak Callに基づくタンパク質-DNA結合領域の検出](https://github.com/suimye/NGS_handson2015/wiki/PeakCallbyMACS)
-  - Peak 領域の意味付けと統合解析 (pptで説明)
-
+  - Peak 領域の意味付けと統合解析 (主にpptで説明)
+    -[Ngsplotを使ったtagの分布解析](https://github.com/suimye/NGS_handson2015/wiki/NGSplotsOnBiolinux8)
 
 
 2. [中級者以上コース（一匹狼たちへの課題）](https://github.com/suimye/NGS_handson2015/wiki/NGS_senior)
