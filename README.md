@@ -41,6 +41,7 @@
   - [データの取得](https://github.com/suimye/NGS_handson2015/wiki/data_retrive)
   - [UCSC table browserからbedファイル作成](https://github.com/suimye/NGS_handson2015/wiki/repeat-region-from-UCSC_table_browser)
   - [データのQCと、ゲノムへのアライメント](https://github.com/suimye/NGS_handson2015/wiki/NGS_beginner)
+  - [データの可視化(UCSC genome browser, IGV)]()
   - [Peak Callに基づくタンパク質-DNA結合領域の検出](https://github.com/suimye/NGS_handson2015/wiki/PeakCallAndMDA)
   - Peak 領域の意味付けと統合解析(主にpptで説明)
       - [Ngsplotを使ったtagの分布解析](https://github.com/suimye/NGS_handson2015/wiki/NGSplotsOnBiolinux8)
