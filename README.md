@@ -43,15 +43,15 @@
   - [データのQCと、ゲノムへのアライメント](https://github.com/suimye/NGS_handson2015/wiki/NGS_beginner)
   - [データの可視化(UCSC genome browser, IGV)](https://github.com/suimye/NGS_handson2015/wiki/ChIP-seq%E3%83%87%E3%83%BC%E3%82%BF%E3%81%AE%E5%8F%AF%E8%A6%96%E5%8C%96)
   - [Peak Callに基づくタンパク質-DNA結合領域の検出](https://github.com/suimye/NGS_handson2015/wiki/PeakCallAndMDA)
+
+2. 中級者コース
+  - 3つのデータの解析 (領域の意味付けと統合解析)
   - Peak 領域の意味付けと統合解析(主にpptで説明)
       - [Ngsplotを使ったtagの分布解析](https://github.com/suimye/NGS_handson2015/wiki/NGSplotsOnBiolinux8)
       - HOMERの統合解析
 
 
-
-
-
-2. [中級者以上コース（一匹狼たちへの課題）](https://github.com/suimye/NGS_handson2015/wiki/NGS_senior)
+3. [中級者以上コース（一匹狼たちへの課題）](https://github.com/suimye/NGS_handson2015/wiki/NGS_senior)
 
 
 
