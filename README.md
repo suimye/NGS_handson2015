@@ -1,21 +1,23 @@
-#平成27年度NGSハンズオン講習会
+#NGSハンズオン講習会
 ###ChIP-Seq解析基礎-森岡担当
-***
-###バイオインフォマティクス人材育成カリキュラム、次世代シークエンサ(NGS)ハンズオン講習会の講義資料になります。
-[平成27年度NGSハンズオン講習会の公式HP](http://biosciencedbc.jp/human/human-resources/workshop/h27)
-[2015全日程の講義資料](http://www.iu.a.u-tokyo.ac.jp/~kadota/r_seq.html#bioinfo_ngs_sokushu_2015)
+###バイオインフォマティクス人材育成カリキュラム、次世代シークエンサ(NGS)ハンズオン講習会の講義資料、ならびに28年に行われた統合データベース講習会AJACSa三島2の講演資料です。
 
+- [平成27年度NGSハンズオン講習会の公式HP](http://biosciencedbc.jp/human/human-resources/workshop/h27)
+- [2015全日程の講義資料](http://www.iu.a.u-tokyo.ac.jp/~kadota/r_seq.html#bioinfo_ngs_sokushu_2015)
+- [統合データベース講習会AJACSa三島2](http://dbcls.rois.ac.jp/archives/3094)
 
-8/6以降も適宜更新作業を行っていますので、追加分で大事なところは赤字にしてあります。
+8/6以降も適宜更新作業を行っています。
 
-ご質問は msmorioka-tkyあっとumin.ac.jpまでお願いいたします。
+ご質問などに関してはmsmorioka-tkyあっとumin.ac.jpまでお願いいたします。
 
+- 2016.2: homerの使い方 update
+- 2016.2: IGVの使い方 update
 
 
 ###参考資料
 - [2014のChIP-seq解析、河岡先生の資料へのリンク](http://www.iu.a.u-tokyo.ac.jp/~kadota/bioinfo_ngs_sokushu_2014/20140911_4-4_kawaoka.pdf)
 - [shellの使い方: 服部先生の資料へのリンク](http://www.iu.a.u-tokyo.ac.jp/~kadota/bioinfo_ngs_sokushu_2015/20150724_amelieff.pdf)
-- [HOMER](http://homer.salk.edu/homer/chipseq/)
+- [HOMER](http://homer.salk.edu/homer/index.html)
 - [NGS Surfer's wiki ](https://cell-innovation.nig.ac.jp/wiki/tiki-index.php)
   -bowtie, bwaのmultimappingのときのリードの分散について[情報](http://tinyurl.com/ooeactg) 
 
@@ -45,10 +47,9 @@
   - [Peak Callに基づくタンパク質-DNA結合領域の検出](https://github.com/suimye/NGS_handson2015/wiki/PeakCallAndMDA)
 
 2. 中級者コース
-  - 3つのデータの解析 (領域の意味付けと統合解析)
   - Peak 領域の意味付けと統合解析(主にpptで説明)
       - [Ngsplotを使ったtagの分布解析](https://github.com/suimye/NGS_handson2015/wiki/NGSplotsOnBiolinux8)
-      - HOMERの統合解析
+      - [HOMERの統合解析](https://github.com/suimye/NGS_handson2015/wiki/Homer_Data_integration)
 
 
 3. [中級者以上コース（一匹狼たちへの課題）](https://github.com/suimye/NGS_handson2015/wiki/NGS_senior)
