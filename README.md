@@ -50,6 +50,7 @@
   - Peak 領域の意味付けと統合解析(主にpptで説明)
       - [Ngsplotを使ったtagの分布解析](https://github.com/suimye/NGS_handson2015/wiki/NGSplotsOnBiolinux8)
       - [HOMERの統合解析](https://github.com/suimye/NGS_handson2015/wiki/Homer_Data_integration)
+      - [NGSplotを使ったデータの統合](https://github.com/suimye/NGS_handson2015/wiki/Ngsplot_data_integration)
 
 
 3. [中級者以上コース（一匹狼たちへの課題）](https://github.com/suimye/NGS_handson2015/wiki/NGS_senior)
