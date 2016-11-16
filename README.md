@@ -47,7 +47,7 @@
 
   - ChIP-seqの基本原理と解析の流れ(pptで説明) 
   - [GEOでのNGSデータのと検索と取得](https://github.com/suimye/NGS_handson2015/wiki/NCBI_GEOからのNGSデータの取得方法)
-  - [NGSのデータのマッピング](https://)
+  - [NGSのデータのマッピング](https://github.com/suimye/NGS_handson2015/wiki/NGSデータの準備とmapping)
   - [UCSC table browserからbedファイル作成](https://github.com/suimye/NGS_handson2015/wiki/repeat-region-from-UCSC_table_browser)
   - [データのQCと、ゲノムへのアライメント](https://github.com/suimye/NGS_handson2015/wiki/NGS_beginner)
   - [データの可視化(UCSC genome browser, IGV)](https://github.com/suimye/NGS_handson2015/wiki/ChIP-seq%E3%83%87%E3%83%BC%E3%82%BF%E3%81%AE%E5%8F%AF%E8%A6%96%E5%8C%96)
