@@ -44,8 +44,6 @@
 #NGS_handson2015
 1. [初心者コース（森岡の講義とともに歩く）](https://github.com/suimye/NGS_handson2015/wiki/NGS_beginner)
 
-
-  - ChIP-seqの基本原理と解析の流れ(pptで説明) 
   - [GEOでのNGSデータのと検索と取得](https://github.com/suimye/NGS_handson2015/wiki/NCBI_GEOからのNGSデータの取得方法)
   - [NGSのデータのマッピング](https://github.com/suimye/NGS_handson2015/wiki/NGSデータの準備とmapping)
   - [UCSC table browserからbedファイル作成](https://github.com/suimye/NGS_handson2015/wiki/repeat-region-from-UCSC_table_browser)
@@ -54,7 +52,7 @@
   - [Peak Callに基づくタンパク質-DNA結合領域の検出](https://github.com/suimye/NGS_handson2015/wiki/PeakCallAndMDA)
 
 2. 中級者コース
-  - Peak 領域の意味付けと統合解析(主にpptで説明)
+  - Peak 領域の意味付けと統合解析
       - [Ngsplotを使ったtagの分布解析](https://github.com/suimye/NGS_handson2015/wiki/NGSplotsOnBiolinux8)
       - [HOMERの統合解析](https://github.com/suimye/NGS_handson2015/wiki/Homer_Data_integration)
       - [NGSplotを使ったデータの統合](https://github.com/suimye/NGS_handson2015/wiki/Ngsplot_data_integration)
