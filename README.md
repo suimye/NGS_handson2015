@@ -1,10 +1,15 @@
 #NGSハンズオン講習会
 ###ChIP-Seq解析基礎-森岡担当
-###バイオインフォマティクス人材育成カリキュラム、次世代シークエンサ(NGS)ハンズオン講習会の講義資料、ならびに28年に行われた統合データベース講習会AJACSa三島2の講演資料です。
+###バイオインフォマティクス人材育成カリキュラム、次世代シークエンサ(NGS)ハンズオン講習会の講義資料、ならびに28年に行われた統合データベース講習会AJACSa三島2の講演資料です。ところどころ、biolinux8の環境に合わせた仕様になっていますので、ソフトウェアのバージョンなどにご注意ください。
+
 
 - [平成27年度NGSハンズオン講習会の公式HP](http://biosciencedbc.jp/human/human-resources/workshop/h27)
 - [2015全日程の講義資料](http://www.iu.a.u-tokyo.ac.jp/~kadota/r_seq.html#bioinfo_ngs_sokushu_2015)
 - [統合データベース講習会AJACSa三島2](http://dbcls.rois.ac.jp/archives/3094)
+
+ハードウェア環境に依存しないChIP-seq解析を実施したい方は、Neublaを用いた講義の講義資料を御覧下さい。
+
+- [Neublaを用いたChIP-seq解析](https://github.com/suimye/gunmadai/wiki/nebula_chipseq)
 
 8/6以降も適宜更新作業を行っています。
 
@@ -12,6 +17,7 @@
 
 - 2016.2: homerの使い方 update
 - 2016.2: IGVの使い方 update
+- 2016.11: mappingへのリンク追加、Nebulaを使ったChIP-seq解析へのリンク追加
 
 
 ###参考資料
@@ -40,7 +46,8 @@
 
 
   - ChIP-seqの基本原理と解析の流れ(pptで説明) 
-  - [データの取得](https://github.com/suimye/NGS_handson2015/wiki/data_retrive)
+  - [GEOでのNGSデータのと検索と取得](https://github.com/suimye/NGS_handson2015/wiki/NCBI_GEOからのNGSデータの取得方法)
+  - [NGSのデータのマッピング](https://)
   - [UCSC table browserからbedファイル作成](https://github.com/suimye/NGS_handson2015/wiki/repeat-region-from-UCSC_table_browser)
   - [データのQCと、ゲノムへのアライメント](https://github.com/suimye/NGS_handson2015/wiki/NGS_beginner)
   - [データの可視化(UCSC genome browser, IGV)](https://github.com/suimye/NGS_handson2015/wiki/ChIP-seq%E3%83%87%E3%83%BC%E3%82%BF%E3%81%AE%E5%8F%AF%E8%A6%96%E5%8C%96)
